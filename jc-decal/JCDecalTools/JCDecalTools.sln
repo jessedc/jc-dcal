@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCDecalToolsPlugin", "JCDecalTools\JCDecalToolsPlugin\JCDecalToolsPlugin.csproj", "{15EF662D-7868-435A-B4AD-35D47B0FA271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCDecalTools", "JCDecalTools\JCDecalTools\JCDecalTools.csproj", "{84098AE5-783F-403D-9927-3394922EF3C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15EF662D-7868-435A-B4AD-35D47B0FA271}.Release|x86.ActiveCfg = Release|x86
+		{15EF662D-7868-435A-B4AD-35D47B0FA271}.Release|x86.Build.0 = Release|x86
+		{84098AE5-783F-403D-9927-3394922EF3C3}.Release|x86.ActiveCfg = Release|x86
+		{84098AE5-783F-403D-9927-3394922EF3C3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0AD8832-9069-4AE5-AEEE-5D5CDF83BFB8}
+	EndGlobalSection
+EndGlobal
